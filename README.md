@@ -1,1 +1,0 @@
-# osoc_season1_Otegen_Nuralim
