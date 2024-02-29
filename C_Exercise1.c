@@ -1,7 +1,9 @@
 #include <stdio.h>
-int main() {
-   // printf() displays the string inside quotation
-   printf("Hello,Nura World!");
-   return 0;
+
+int main(int argc, char *argv[])
+{
+    int distance = 100;
+    printf("You are %i miles away.\n", distance);
+    return 0;
 }
 
